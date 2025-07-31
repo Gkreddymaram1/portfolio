@@ -14,7 +14,9 @@ console.log(c)
 
 Step 2: 
 write a javascript to excute by a node.js are install
+
 step 3:
 environment create cheyali and node js install chesaka javascript anedhi run aee output vasthadhi
+
 step 4:
 ela chesthe javascript run avthundhi and output vasthadhi this is day1 
