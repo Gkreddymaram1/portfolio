@@ -1,4 +1,10 @@
-# portfolio
+# Portfolio
+This project is intended to develop Portfolio app to show case my skills.
+
+# Tech Stack
+Front End: HTML, CSS, Javacript, ReactJS
+Back End: NodeJS, ExpressJS
+Database: MongoDB
 
 # Environment Setup
 
@@ -20,3 +26,5 @@ environment create cheyali and node js install chesaka javascript anedhi run aee
 
 step 4:
 ela chesthe javascript run avthundhi and output vasthadhi this is day1 
+
+# Execution Flow
