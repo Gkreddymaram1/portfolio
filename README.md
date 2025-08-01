@@ -22,6 +22,10 @@ Database: MongoDB
   mongosh --version
   ```
 # MongoDB Operations
+* Connect MongoDB server using MongoDB client
+```
+mongosh
+```
 * Create database
 ```
 use portfolio
