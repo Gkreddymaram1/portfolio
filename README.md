@@ -38,7 +38,16 @@ db.skills.insertOne({
   stream: "database"
  })
 ```
-* find document
+* Find document
 ```
 db.skills.find()
+```
+* Update document
+```
+db.skills.updateOne({ name: 'mongodb' }, { $set: { name: 'mysql' } }
+)
+```
+* Delete document
+```
+db.skills.deleteOne({ stream: 'database' })
 ```
