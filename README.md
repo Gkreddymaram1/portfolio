@@ -10,6 +10,7 @@ Database: MongoDB
 
 # MongoDB Setup
 * MongoDB Server and MongoDB Client Setup and set in system environment variable
+* 
   MongoDB Sever: https://www.mongodb.com/try/download/community
 
   MongoDB Client: https://www.mongodb.com/try/download/shell?jmp=docs
