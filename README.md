@@ -57,7 +57,7 @@ db.skills.deleteOne({ stream: 'database' })
 
 ```
 
-i am lerning  by html tables forms
+I am lerning  by html tables forms
 example my and my friends data gather the html code 
 <!DOCTYPE html>
 <html lang="en">
