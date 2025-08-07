@@ -54,4 +54,55 @@ db.skills.updateOne({ name: 'mongodb' }, { $set: { name: 'mysql' } }
 * Delete document
 ```
 db.skills.deleteOne({ stream: 'database' })
+
 ```
+
+i am lerning  by html tables forms
+example my and my friends data gather the html code 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table</title>
+</head>
+<body>
+
+ <table  border = "1">
+    <th>id</th>
+    <th>name</th>
+    <th>phone</th>
+    <th>mail</th>
+    <th>address</th>
+  <tr>
+    <th>1</th>
+    <th>gkreddymaram</th>
+    <th>9121943891</th>
+    <th>gopalkrishnareddymaram@gmail.com</th>
+    <th>tellabadu</th>
+
+</tr>
+   <tr>
+    <th>2</th>
+    <th>venkatakrishna</th>
+    <th>8074774594</th>
+    <th>venkatakrishna@gmail.com</th>
+    <th>west kombalapadu</th>
+
+</tr>
+        <tr>
+    <th>3</th>
+    <th>mallikarjunareddy</th>
+    <th> 9014363971 </th>
+    <th>mallikarjunareddy@gmail.com</th>
+    <th>donakonda</th>
+
+</tr>
+    
+    </tr>
+    </th>
+ </table>
+    
+    
+</body>
+</html>
