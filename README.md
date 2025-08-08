@@ -106,3 +106,86 @@ example my and my friends data gather the html code
     
 </body>
 </html>
+
+```
+```
+Today i'm learning by how to creat a goggle forms basic level
+````
+
+```
+to add by a color the small login form
+<!--
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border = "1"   ;>
+    <tr>
+    <th style="background-color: red;" >id</th>
+    <th style="background-color: red;" >name</th>
+    <th style="background-color: red;" >phonenumber</th>
+    <th style="background-color: red;" >mail.id</th>
+ </tr>
+ <tr>
+    <th>1</th>
+    <th>venkatakrishna</th>
+    <th>1*******</th>
+    <th>ve@gamail.com </th>
+ </tr>
+    
+ <tr>
+    <th>2</th>
+    <th>yesu raju</th>
+    <th>2*******</th>
+    <th>yesuraju@gamil.com</th>
+    <tr>
+    <th>3</th>
+    <th>gk</th>
+    <th>3******</th>
+    <th>gk@gmail.com</th>
+    </tr>
+    <tr>
+    <th>4</th>
+    <th>malli</th>
+    <th>4******</th>
+    <th>malli@gmail.com</th>
+
+
+    </tr>
+ </tr>
+</body>
+</html>
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms</title>
+</head>
+<body>
+     <h1>form</h1>
+  <form>
+      <label style = "background-color: red;" >Firstname</label><br>
+      <input type="text" name="fname" ><br>
+  
+      <label   style = "background-color: green;" >Lastname</label><br>
+      <input type="text" name="lname" ><br>
+      <label  style = "background-color: yellow;" >midlename</label><br>
+      <input type="text" name="mname" ><br>
+      
+   <button>submit</button>
+    <button>button</button>
+     <button>clear</button>
+  </form> 
+        
+</body>
+</html>
+
+
