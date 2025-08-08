@@ -109,7 +109,7 @@ example my and my friends data gather the html code
 
 ```
 ```
-Today i'm learning by how to creat a goggle forms basic level
+Today i'm learning by how to creat a small login  forms basic level
 ````
 
 ```
